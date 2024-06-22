@@ -4,6 +4,5 @@ scipy
 matplotlib
 streamlit
 ydata-profiling
-streamlit-pandas-profiling
 openpyxl
 xlrd
