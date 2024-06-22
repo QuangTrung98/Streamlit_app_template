@@ -7,3 +7,4 @@ pandas_profiling
 streamlit-pandas-profiling
 openpyxl
 xlrd
+pydantic-settings
