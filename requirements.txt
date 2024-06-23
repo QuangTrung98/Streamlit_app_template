@@ -1,10 +1,1 @@
-numpy
-pandas
-scipy
-matplotlib
-streamlit
-pandas_profiling
-streamlit-pandas-profiling
-openpyxl
-xlrd
-pydantic-settings
+
